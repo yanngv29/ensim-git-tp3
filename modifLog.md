@@ -5,3 +5,7 @@ Issue 1- Mettre à jour un jeu sur la page - Duc Bach NGUYEN
 - J'ai ajouté une image dans répertoir /img/DOTA2.jpeg
 - J'ai modifié le permière jeu devenir DOTA2 (changé des étiquettes et mis un id "DOTA2")
 - 
+
+Issue 11 - ajouter un nouveau jeu sur la page - Oussama BOUAZZA
+- ajout d'une card pour le jeu Fifa 22
+- ajout de la cover du jeu dans /img/fifa-22.jpg
