@@ -10,8 +10,10 @@ Issue 2 - Rezk BERCHID
 - Ajout d'une brève description du jeu en bas de l'image  
 - Ajout des badges
 
-
 Issue 11 - ajouter un nouveau jeu sur la page - Oussama BOUAZZA
 - ajout d'une card pour le jeu Fifa 22
 - ajout de la cover du jeu dans /img/fifa-22.jpg
+
+Issue 14 - Ajouter une Catégorie sous la catégorie "Deals" - Aksel Vaillant
+- Ajout des crédits et des étudiants du groupe IPS3 : prénom/nom + pseudo
 
