@@ -36,3 +36,7 @@ Issue 12 - Ajouter un nouveau jeu sur la page - Nicolas BOISSEAU
 - ajout de la cover du jeu
 - ajout d'une description du jeu
 - ajout de badge pour le jeu
+
+Issue 4 - Mettre à jour un quatrième jeu sur la page
+- Mise à jour de League of legends
+- Resolution des ambiguités de placement de quelques cards
