@@ -40,3 +40,7 @@ Issue 12 - Ajouter un nouveau jeu sur la page - Nicolas BOISSEAU
 Issue 4 - Mettre à jour un quatrième jeu sur la page
 - Mise à jour de League of legends
 - Resolution des ambiguités de placement de quelques cards
+
+Issue 5 - Mettre a jour du jeu SuperHot 
+    -ajout d'une description du jeu jeu.
+    -modification des badges.
