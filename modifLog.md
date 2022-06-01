@@ -25,6 +25,11 @@ Issue 13- Ajouter un jeu de cette année - Thomas BASTIDE
 Issue 14 - Ajouter une Catégorie sous la catégorie "Deals" - Aksel Vaillant
 - Ajout des crédits et des étudiants du groupe IPS3 : prénom/nom + pseudo
 
+Issue 10 - Revoir les couleurs de la page - FATARA Kawtar
+- Ajout d'un background "whitebg.png"
+- Changement de couleur de police et de fond d'image 
+- Changement de la police
+- Ajuster la barre de navigation
 
 Issue 12 - Ajouter un nouveau jeu sur la page - Nicolas BOISSEAU
 - ajout d'une card pour Horizon Forbidden West
