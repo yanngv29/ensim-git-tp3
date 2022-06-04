@@ -45,4 +45,7 @@ Issue 5 - Mettre a jour du jeu SuperHot
     -ajout d'une description du jeu jeu.
     -modification des badges.
 
-Issue 7 - Changement dans la page : "Academy VR Games" en "Les JV de l'ENSIM" -Rezk BERCHID
+Issue 7 
+- Changement dans la page : "Academy VR Games" => "Les JV de l'ENSIM"
+- Titre de la page : "Academy Cinemas" => "Cinémas de l'ENSIM"
+- "About Academy Cinemas" => "About ENSIM Cinemas"        -Rezk BERCHID
