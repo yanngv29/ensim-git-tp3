@@ -44,3 +44,5 @@ Issue 4 - Mettre à jour un quatrième jeu sur la page
 Issue 5 - Mettre a jour du jeu SuperHot 
     -ajout d'une description du jeu jeu.
     -modification des badges.
+
+Issue 7 - Changement dans la page : "Academy VR Games" en "Les JV de l'ENSIM" -Rezk BERCHID
