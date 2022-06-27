@@ -66,3 +66,8 @@ Issue 8
 - Changement du titre "About ENSIM Cinemas" à "About ENSIM"
 - Chanegement de l'image
 - Modification du texte de la section "About ENSIM"
+
+Issue 9
+
+- ajout d'une card pour le jeu Freefire
+- ajout de la cover du jeu dans /img/freefire.jpg
